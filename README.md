@@ -1,6 +1,6 @@
 # Canon.com/ijsetup
 
-#  [Get Started Here](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+#  [Get Started Here](https://can.printredir.com)
 
 Canon.com/ijsetup is an independent platform where you can download and install Canon printer drivers for setting up an inkjet printer on PC, Mac and smartphones as well. Canon ij setup is the software available online at  [canon.com/ijsetup](https://c0nstart.github.io). Check complete guidelines to download, install and set up your Canon inkjet printer.
 
